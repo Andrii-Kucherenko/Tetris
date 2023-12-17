@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Programs\VS\Projects\Tetris\Tetris\main.cpp(195,28): error C2059: syntax error: '>'
+D:\Programs\VS\Projects\Tetris\Tetris\main.cpp(196,4): error C2143: syntax error: missing ';' before '{'
